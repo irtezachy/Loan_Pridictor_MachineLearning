@@ -1,0 +1,2 @@
+# Loan_Pridictor_MachineLearning
+ Companies aim to automate the real-time loan qualification process by utilizing customer-provided information from online application forms. The development of machine learning models is anticipated to aid in predicting loan approval, speed up the decision making process to determine applicant eligibility for loans.  Analyze customer data provided in data set (EDA) Building different ML models that can predict loan approval
